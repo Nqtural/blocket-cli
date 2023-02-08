@@ -1,0 +1,4577 @@
+{
+    "ad_id": "106746265",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "5173536",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "mickaeldimitrievski",
+        "public_profile": {
+            "account_created_at": "2018-09-09T08:31:14.153Z",
+            "badges": [],
+            "blocket_account_id": "5173536",
+            "display_name": "mickaeldimitrievski",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            }
+        },
+        "type": "private"
+    },
+    "body": "Säljer min ktm 450 pga. köpt annat.\nHar gått totalt 214,3 timmar, Kolven bytt för ca 100 timmar sen. \nSkött enligt rekommendationer, extra sadel, luft filter, beg. dubb däck, täcklock, däck och drivpaket ok, ny plast,\nframgaffel ny servad,\nsamt ny servad med motorolja, filter och ny kylarvätska.\nEventuellt kan räntefri avbet. kan ordnas.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 922,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9259753611.jpg",
+            "width": 692
+        },
+        {
+            "height": 732,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9245090945.jpg",
+            "width": 976
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9204262329.jpg",
+            "width": 1280
+        },
+        {
+            "height": 876,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9243511254.jpg",
+            "width": 657
+        },
+        {
+            "height": 667,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9236179921.jpg",
+            "width": 889
+        },
+        {
+            "height": 715,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9205558459.jpg",
+            "width": 953
+        }
+    ],
+    "list_id": "107700734",
+    "list_time": "2023-02-04T15:35:10+01:00",
+    "location": [
+        {
+            "id": "20",
+            "name": "Halland",
+            "query_key": "r"
+        },
+        {
+            "id": "239",
+            "name": "Falkenberg",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2231162%22%7D\\u0026zoom.to=location",
+        "label": "311 62 Ullared, Hallands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106746265",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2018"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 48000
+    },
+    "share_url": "https://www.blocket.se/annons/halland/ktm_exc_f_450/106746265",
+    "state_id": "2104473523",
+    "subject": "Ktm Exc-f 450",
+    "type": "s",
+    "zipcode": "31162"
+},
+{
+    "ad_id": "106745958",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "3730953",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Oskar Carlsson",
+        "public_profile": {
+            "account_created_at": "2017-03-21T18:48:56.81Z",
+            "badges": [
+                {
+                    "description": "Svarstid ca 2 timmar",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "3730953",
+            "display_name": "Oskar Carlsson",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            }
+        },
+        "type": "private"
+    },
+    "body": "Kikar intresset på min superfina sx150.\nNyrenoverad växellåda\nNy kolv\nNyservad framgaffel\nMånga nybytta slitagedelar t.ex hjullager bromsbelägg mm. \nHgs avgassystem\nV-force 3 reedventiler\nFöljer med original väska med bok som är ifylld med komplett servicehistorik.\nÄven orginal avgassystem samt extra plast m.m",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9280179259.jpg",
+            "width": 988
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9218340342.jpg",
+            "width": 1131
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9266320874.jpg",
+            "width": 768
+        }
+    ],
+    "list_id": "107700365",
+    "list_time": "2023-02-04T15:25:31+01:00",
+    "location": [
+        {
+            "id": "7",
+            "name": "Värmland",
+            "query_key": "r"
+        },
+        {
+            "id": "83",
+            "name": "Säffle",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2266140%22%7D\\u0026zoom.to=location",
+        "label": "661 40 Säffle, Värmlands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106745958",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2016"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 39000
+    },
+    "share_url": "https://www.blocket.se/annons/varmland/ktm_150_sx/106745958",
+    "state_id": "2104470428",
+    "subject": "Ktm 150 sx",
+    "type": "s",
+    "zipcode": "66140"
+},
+{
+    "ad_id": "106743843",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "4309350",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "zinken87",
+        "public_profile": {
+            "account_created_at": "2017-10-24T10:07:51.561Z",
+            "badges": [
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "4309350",
+            "display_name": "zinken87",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Hej\n\nHar bestämt mig för att sälja enduron då andra intressen finns. Vart i min ägo sen 6tim.\n\n73 tim\nLoggbok på service\nStröm till hjälmlyse på styret\nKolfiberskydd till kröken\nEtt gäng luftfilter\nSitter fjädrar på för 95-105 kg men original följer med\nBesiktningskit \nLite bromsbelägg \n\nEn hoj i mkt bra skick, hör av er för mer info.\n\nMvh Jens",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9250496135.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9295392558.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9274382257.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9202232042.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9234641483.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9288061225.jpg",
+            "width": 768
+        }
+    ],
+    "list_id": "107698986",
+    "list_time": "2023-02-04T14:48:42+01:00",
+    "location": [
+        {
+            "id": "22",
+            "name": "Blekinge",
+            "query_key": "r"
+        },
+        {
+            "id": "254",
+            "name": "Karlskrona",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106743843",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2018"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 59000
+    },
+    "share_url": "https://www.blocket.se/annons/blekinge/ktm_300tpi/106743843",
+    "state_id": "2104460200",
+    "subject": "KTM 300Tpi",
+    "type": "s"
+},
+{
+    "ad_id": "104543982",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "rasmus@2wheelracing.se",
+            "phone": true
+        },
+        "name": "2WheelRacing",
+        "store_name": "2WheelRacing",
+        "type": "store"
+    },
+    "attributes": [
+        {
+            "header": "Utrustning",
+            "id": "car_equipment",
+            "items": [
+                "nya däck",
+                "nya bakbromsbelägg bak"
+            ]
+        }
+    ],
+    "body": "KTM sxf 250 (Räntefri Avbetalning)\nMätarställning: 0 mil\nFärg: Orange\nTyp: Cross/Enduro/Trial\nNu har vi fått in en fin Ktm sx-f 250 som säljes åt kund!!\nDen är väldigt väl omhändertagen med mycket nya delar!\nDet som är gjort det senaste är följande: servad olja+oljefilter, nygenomgången motor med ny kolv och kamkedja (gått några få timmar sedan dess), fotpinnarna är nästan nya, drivpaketet är nästan nytt och nya dekaler.\nSjälvklart är hojen även genomgången av oss innan försäljning.\n\nVi erbjuder förmånlig finansiering från 0% i ränta!\nVälkomna till oss på 2WheelRacing i Mariestad!!\n\nsök sxf250 sx 250 sx250 fc250 fc 250 mc250f mc 250 f",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8369421941.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8394991898.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8329085174.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8397271726.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8339888321.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8373981597.jpg",
+            "width": 1280
+        }
+    ],
+    "list_id": "105367624",
+    "list_time": "2023-02-04T13:09:59+01:00",
+    "location": [
+        {
+            "id": "13",
+            "name": "Skaraborg",
+            "query_key": "r"
+        },
+        {
+            "id": "159",
+            "name": "Mariestad",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=104543982",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2019"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16544069",
+        "name": "bytbil"
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 49900
+    },
+    "share_url": "https://www.blocket.se/annons/skaraborg/ktm_sxf_250_rantefri_avbetalning_/104543982",
+    "state_id": "2104431564",
+    "subject": "KTM sxf 250 (Räntefri Avbetalning)",
+    "type": "s"
+},
+{
+    "ad_id": "106746308",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "1623267",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Carl-Axel",
+        "public_profile": {
+            "account_created_at": "2014-06-14T14:38:44.807Z",
+            "badges": [
+                {
+                    "description": "6 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                },
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "1623267",
+            "display_name": "Carl-Axel",
+            "number_of_active_ads": 4,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Honda Cr 125/250 mod ace .\nKawasaki Kx80/100 98-01.\nKTM 125-525-01.\nHonda Cr80/85 96-07.\nHonda Cr 80/85 96-07.\nDekalerna kan skickas och då betalar köparen frakten.\nPris:100:- st.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1160",
+            "name": "MC-delar \\u0026 tillbehör"
+        },
+        {
+            "id": "1164",
+            "name": "Övrigt"
+        }
+    ],
+    "images": [
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9228986752.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9231266580.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9246629383.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9276758996.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9238702057.jpg",
+            "width": 640
+        }
+    ],
+    "list_id": "107695931",
+    "list_time": "2023-02-04T13:09:04+01:00",
+    "location": [
+        {
+            "id": "5",
+            "name": "Gävleborg",
+            "query_key": "r"
+        },
+        {
+            "id": "53",
+            "name": "Sandviken",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2281195%22%7D\\u0026zoom.to=location",
+        "label": "811 95 Järbo, Gävleborgs län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106746308",
+    "price": {
+        "suffix": "kr",
+        "value": 100
+    },
+    "share_url": "https://www.blocket.se/annons/gavleborg/motocross_bakskarms_dekaler/106746308",
+    "state_id": "2104431336",
+    "subject": "Motocross Bakskärms dekaler",
+    "type": "s",
+    "zipcode": "81195"
+},
+{
+    "ad_id": "106744421",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "1623267",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Carl-Axel",
+        "public_profile": {
+            "account_created_at": "2014-06-14T14:38:44.807Z",
+            "badges": [
+                {
+                    "description": "6 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                },
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "1623267",
+            "display_name": "Carl-Axel",
+            "number_of_active_ads": 4,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Suzuki Rm80/85 04-08.\nYamaha Yz80/85 93-03.\nKTM 125-525 99-02.\nSuzuki Rm 125/250 01-09.\nKan skickas och då betalar köparen frakten.\nPris:100:- st",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1160",
+            "name": "MC-delar \\u0026 tillbehör"
+        },
+        {
+            "id": "1164",
+            "name": "Övrigt"
+        }
+    ],
+    "images": [
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9261605523.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9255362032.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9232071903.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9234351731.jpg",
+            "width": 640
+        }
+    ],
+    "list_id": "107694576",
+    "list_time": "2023-02-04T12:11:18+01:00",
+    "location": [
+        {
+            "id": "5",
+            "name": "Gävleborg",
+            "query_key": "r"
+        },
+        {
+            "id": "53",
+            "name": "Sandviken",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2281195%22%7D\\u0026zoom.to=location",
+        "label": "811 95 Järbo, Gävleborgs län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106744421",
+    "price": {
+        "suffix": "kr",
+        "value": 100
+    },
+    "share_url": "https://www.blocket.se/annons/gavleborg/motocross_framskarms_dekaler/106744421",
+    "state_id": "2104413583",
+    "subject": "Motocross Framskärms dekaler",
+    "type": "s",
+    "zipcode": "81195"
+},
+{
+    "ad_id": "106743881",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "1623267",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Carl-Axel",
+        "public_profile": {
+            "account_created_at": "2014-06-14T14:38:44.807Z",
+            "badges": [
+                {
+                    "description": "6 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                },
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "1623267",
+            "display_name": "Carl-Axel",
+            "number_of_active_ads": 4,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Thor dekaler 150:-.\nHonda Crf 150:-.\nYamaha 200:-\nKTM 200:-.\nKTM Cemoto150:-.\nKawasaki Kx/Kxf 200:-\nDekalerna kan skickas men då tillkommer frakt avgift.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1160",
+            "name": "MC-delar \\u0026 tillbehör"
+        },
+        {
+            "id": "1164",
+            "name": "Övrigt"
+        }
+    ],
+    "images": [
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9204882044.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9273068596.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9266825105.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9294674890.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9216281184.jpg",
+            "width": 640
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9252654288.jpg",
+            "width": 640
+        }
+    ],
+    "list_id": "107694209",
+    "list_time": "2023-02-04T11:55:38+01:00",
+    "location": [
+        {
+            "id": "5",
+            "name": "Gävleborg",
+            "query_key": "r"
+        },
+        {
+            "id": "53",
+            "name": "Sandviken",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2281195%22%7D\\u0026zoom.to=location",
+        "label": "811 95 Järbo, Gävleborgs län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106743881",
+    "price": {
+        "suffix": "kr",
+        "value": 150
+    },
+    "share_url": "https://www.blocket.se/annons/gavleborg/motocross_dekaler_kit/106743881",
+    "state_id": "2104409111",
+    "subject": "Motocross dekaler kit",
+    "type": "s",
+    "zipcode": "81195"
+},
+{
+    "ad_id": "106741375",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "5442",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Stefan",
+        "public_profile": {
+            "account_created_at": "2011-09-29T17:20:32.508Z",
+            "badges": [
+                {
+                    "description": "54 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                },
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "5442",
+            "display_name": "Stefan",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 97,
+                "reviews_received_count": 4,
+                "worded_overall_score": "Perfekt"
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "KTM 350 exc\n2020\n62.3 tim\nNy plast sitter på vid försäljning",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 890,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9269991720.jpg",
+            "width": 1280
+        }
+    ],
+    "list_id": "107694128",
+    "list_time": "2023-02-04T11:52:54+01:00",
+    "location": [
+        {
+            "id": "1",
+            "name": "Norrbotten",
+            "query_key": "r"
+        },
+        {
+            "id": "9",
+            "name": "Luleå",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2297595%22%7D\\u0026zoom.to=location",
+        "label": "975 95 Luleå, Norrbottens län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106741375",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2020"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 69000
+    },
+    "share_url": "https://www.blocket.se/annons/norrbotten/ktm_350_exc_f/106741375",
+    "state_id": "2104408432",
+    "subject": "KTM 350 exc-f",
+    "type": "s",
+    "zipcode": "97595"
+},
+{
+    "ad_id": "106072405",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "24157870",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "jesper",
+        "public_profile": {
+            "account_created_at": "2020-02-03T07:20:08.334Z",
+            "badges": [
+                {
+                    "description": "Svarstid ca 3 timmar",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "24157870",
+            "display_name": "jesper",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Tja, har en Ktm tpi 300 2022\nGår som en jävla raket.\nskick använd.\nIngen hårdare vurpa, bara lagt omkull den.\nKröken har en buckla, som går att trycka ut. \nJag har haft den sen ny.\nDämparna servade för 5timmar sen. \nGått Mellan 50-60h hade en lånefälg några timmar.\nservice gjord enligt standard boken. \nsitter conevalve på både fram och bak, säljs helst med. \norginal finns kvar. \nhar massor med extra. \nlite nya däck tillbehör mm, finns intresse så tar vi det på plats.\npris med conevalve 95000:-",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/7072873468.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/7036604508.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/7034920673.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/7071889770.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/7042356150.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/7082201068.jpg",
+            "width": 768
+        }
+    ],
+    "list_id": "106993701",
+    "list_time": "2023-02-04T11:48:40+01:00",
+    "location": [
+        {
+            "id": "12",
+            "name": "Södermanland",
+            "query_key": "r"
+        },
+        {
+            "id": "146",
+            "name": "Nyköping",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2261175%22%7D\\u0026zoom.to=location",
+        "label": "611 75 Enstaberga, Södermanlands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106072405",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2022"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "old_value": 80000,
+        "price_lowered": true,
+        "suffix": "kr",
+        "value": 75000
+    },
+    "share_url": "https://www.blocket.se/annons/sodermanland/ktm_tpi_300_conevale_trax_bak/106072405",
+    "state_id": "2104419684",
+    "subject": "Ktm Tpi 300 Conevale/trax bak",
+    "type": "s",
+    "zipcode": "61175"
+},
+{
+    "ad_id": "106739644",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "4126",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Martin",
+        "public_profile": {
+            "account_created_at": "2011-09-29T16:01:11.299Z",
+            "badges": [
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "4126",
+            "display_name": "Martin",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Ktm 85cc fin Cross som går väldigt bra! \nAlltid körd på Aspen bränsle. \nAldrig tävlat med den. olje byten var 5 Tim luftfilter efter Varje körning. Loggbok finns. \nNy bytt kolv hos firma bara prov startad . Nya däck och drivpaket. Medföljer lite diverse enligt bild \nHar gått 216 Tim",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8932626150.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8952548609.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8993481369.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8953740595.jpg",
+            "width": 768
+        }
+    ],
+    "list_id": "107690488",
+    "list_time": "2023-02-04T09:25:01+01:00",
+    "location": [
+        {
+            "id": "14",
+            "name": "Östergötland",
+            "query_key": "r"
+        },
+        {
+            "id": "166",
+            "name": "Boxholm",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2259576%22%7D\\u0026zoom.to=location",
+        "label": "595 76 Boxholm, Östergötlands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106739644",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2018"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 24000
+    },
+    "share_url": "https://www.blocket.se/annons/ostergotland/ktm_85sx/106739644",
+    "state_id": "2104368315",
+    "subject": "Ktm 85sx",
+    "type": "s",
+    "zipcode": "59576"
+},
+{
+    "ad_id": "106627217",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "1434750",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Sebastian",
+        "public_profile": {
+            "account_created_at": "2014-02-22T10:01:49.959Z",
+            "badges": [],
+            "blocket_account_id": "1434750",
+            "display_name": "Sebastian",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Säljer nu min GasGas ec 300 tpi årsmodell 2022. \n\nGångtid ca 100 timmar, kolv nyligen byt och likaså oljepump. \n\nutöver standard utrustningen så sitter även följande. \n\nRelocation kit monterat. (spridarna flyttade ner till spjällhuset) \n\nMappad box av ktm Boris. \n\nMonterat tomgångskruv. \n\nModifierade kylare för att undvika klämma hål på slangen mot cylindern.\n\nBrembo ok bak.\n\nHasplåt. \n\nThrottle position sensor skydd. \n\nOch följande är nytt på den. \n\nPlast \n\nSadel \n\nKrök \n\nHjul + däck \n\nGaffel + bakdämpare \n\nStyre \n\nVäldigt fin cykel som går som en 300 ska. Vi fler frågor hör gärna av er. \n\nPris 67 900 kr",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8669001887.jpg",
+            "width": 771
+        }
+    ],
+    "list_id": "107574917",
+    "list_time": "2023-02-03T21:04:42+01:00",
+    "location": [
+        {
+            "id": "8",
+            "name": "Örebro",
+            "query_key": "r"
+        },
+        {
+            "id": "92",
+            "name": "Laxå",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106627217",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2022"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 67900
+    },
+    "share_url": "https://www.blocket.se/annons/orebro/gasgas_ec_300_tpi/106627217",
+    "state_id": "2104303230",
+    "subject": "GasGas ec 300 tpi",
+    "type": "s"
+},
+{
+    "ad_id": "106733096",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "79898",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Viktor",
+        "public_profile": {
+            "account_created_at": "2011-10-23T17:05:15.067Z",
+            "badges": [
+                {
+                    "description": "3 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                },
+                {
+                    "description": "Svarstid ca 2 timmar",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "79898",
+            "display_name": "Viktor",
+            "number_of_active_ads": 2,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Säljer nu min fina ktm 690 smcr då jag inte har tillräckligt med tid att åka på den. \nAllt som är standard finns samt lite extra:\nFMF ljuddämpare\nPowercommander 5 \nKn luftfilter\nDekalkitt \nR\\u0026G tailtidy \nAnnan spegel\nLiten regskylt \nMassor av ktm powerparts och customdelar\nAlla originaldelar finns och är oanvända.\nDen är i nyskick, alla nycklar, handböcker, servicebok osv finns.  \n100-mils service gjord. (Extra servad varje 30h)\n540mil totalt.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1146",
+            "name": "Touring"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9150807647.jpg",
+            "width": 576
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9113346701.jpg",
+            "width": 768
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9175498050.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9109799614.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9151044806.jpg",
+            "width": 815
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9193765545.jpg",
+            "width": 768
+        }
+    ],
+    "list_id": "107685195",
+    "list_time": "2023-02-03T20:04:38+01:00",
+    "location": [
+        {
+            "id": "13",
+            "name": "Skaraborg",
+            "query_key": "r"
+        },
+        {
+            "id": "158",
+            "name": "Lidköping",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2253141%22%7D\\u0026zoom.to=location",
+        "label": "531 41 Lidköping, Västra Götalands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106733096",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2019"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 91500
+    },
+    "share_url": "https://www.blocket.se/annons/skaraborg/ktm_690_smcr/106733096",
+    "state_id": "2104290548",
+    "subject": "Ktm 690 smcr",
+    "type": "s",
+    "zipcode": "53141"
+},
+{
+    "ad_id": "106732561",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "4459615",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "mlpallesen",
+        "public_profile": {
+            "account_created_at": "2018-01-08T16:16:01.169Z",
+            "badges": [],
+            "blocket_account_id": "4459615",
+            "display_name": "mlpallesen",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Fint skick. Nyrenoverad motor för 10 h sedan. Lättstartad \\u0026 servad regelbundet.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9193638721.jpg",
+            "width": 504
+        },
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9105037861.jpg",
+            "width": 564
+        }
+    ],
+    "list_id": "107684212",
+    "list_time": "2023-02-03T18:57:14+01:00",
+    "location": [
+        {
+            "id": "11",
+            "name": "Stockholm",
+            "query_key": "r"
+        },
+        {
+            "id": "116",
+            "name": "Botkyrka",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2214633%22%7D\\u0026zoom.to=location",
+        "label": "146 33 Tullinge, Stockholms län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106732561",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2017"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 21000
+    },
+    "share_url": "https://www.blocket.se/annons/stockholm/ktm_sx_85_cc_hoghjuling/106732561",
+    "state_id": "2104277544",
+    "subject": "KTM SX 85 cc höghjuling",
+    "type": "s",
+    "zipcode": "14633"
+},
+{
+    "ad_id": "106732940",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "732341",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Fredrik",
+        "public_profile": {
+            "account_created_at": "2012-11-30T20:16:43.798Z",
+            "badges": [
+                {
+                    "description": "13 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                },
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "732341",
+            "display_name": "Fredrik",
+            "number_of_active_ads": 9,
+            "reviews": {
+                "overall_score": 100,
+                "reviews_received_count": 1,
+                "worded_overall_score": "Perfekt"
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Nya delar till KTM 450 exc-f 2021 \nAlla delar på bilderna ingår. Allt är\nNytt och kostar över 20k nypris. Säljer allt för 10.000kr vid snabb affär. Kommer inte gå ner i pris eller sälja lösa delar. \n\n- Moto Master Brake kit \n- Crash pads front \n- Crash pads back \n- KTM fotpinnar \n- luftfilter spray \n- spännband för golv montage (ej på\nBild) \n- swing arm covers svarta \n- motorex motorolja 4L \n- original drivpaket 14/52 \n- kit med orange covers enl. Bild \n- tvättplug \n- orginaldrev 1 Tim körning \n- handtag 2st \n- kit med avfettning, sprayer mm \n- depåtält mx 24 3x3m \n- depåpall \n- depåmatta mx24",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1160",
+            "name": "MC-delar \\u0026 tillbehör"
+        },
+        {
+            "id": "1164",
+            "name": "Övrigt"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9130694431.jpg",
+            "width": 768
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9194917320.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9127326761.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9174011163.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9166083837.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9192249787.jpg",
+            "width": 768
+        }
+    ],
+    "list_id": "107683214",
+    "list_time": "2023-02-03T17:55:05+01:00",
+    "location": [
+        {
+            "id": "11",
+            "name": "Stockholm",
+            "query_key": "r"
+        },
+        {
+            "id": "119",
+            "name": "Haninge",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2213648%22%7D\\u0026zoom.to=location",
+        "label": "136 48 Handen, Stockholms län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106732940",
+    "parameters_raw": {
+        "shipping_enabled": {
+            "value": "1"
+        }
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 10000
+    },
+    "price_badge": {
+        "icon": {
+            "url": "https://public-assets.blocketcdn.se/static/icons/shipping.png"
+        },
+        "id": "shipping_enabled",
+        "label": "Erbjuder frakt"
+    },
+    "share_url": "https://www.blocket.se/annons/stockholm/ktm_450_exc_f_2021_delar_fynd/106732940",
+    "state_id": "2104262960",
+    "subject": "KTM 450 exc-f 2021 delar fynd",
+    "type": "s",
+    "usps": [
+        {
+            "label": "Frakt med säker betalning"
+        }
+    ],
+    "zipcode": "13648"
+},
+{
+    "ad_id": "106732939",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "kristoffer@yz.se",
+            "phone": true
+        },
+        "name": "Yamaha Center - Västerås",
+        "store_name": "Yamaha Center Västerås",
+        "type": "store"
+    },
+    "body": "KTM 690 ENDURO R ABS\nMätarställning: 1800 mil\nFärg: svart orange vit\nTyp: Offroad\nHej!\n\nFräsch KTM 690 ENDURO R med endast 1800 mil och 2 ägare till salu. Det sitter extra sport avgassystem breda fotpinnar. Motorskydd justerbara broms samt kopplings grepp. Touratech pakethållaren. Power Commander high performance luft filter extra sadel mm Alla nyklar samt original delar och pappret kvar.  Välkommen på visning!\nMVH YAMAHA CENTER VÄSTERÅS\n\nktm cross enduro r sport 790 890 duke 990 offroad off-road",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1147",
+            "name": "Offroad"
+        }
+    ],
+    "images": [
+        {
+            "height": 1007,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9206914415.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9266577648.jpg",
+            "width": 891
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9200670924.jpg",
+            "width": 810
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9217717562.jpg",
+            "width": 935
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9234764200.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9294427433.jpg",
+            "width": 768
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9271137304.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9222277218.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9298987089.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9275696960.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9235360193.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9220593383.jpg",
+            "width": 768
+        }
+    ],
+    "list_id": "107683206",
+    "list_time": "2023-02-03T17:54:53+01:00",
+    "location": [
+        {
+            "id": "9",
+            "name": "Västmanland",
+            "query_key": "r"
+        },
+        {
+            "id": "107",
+            "name": "Västerås",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106732939",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2015"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16747726",
+        "name": "bytbil"
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 72900
+    },
+    "share_url": "https://www.blocket.se/annons/vastmanland/ktm_690_enduro_r_abs/106732939",
+    "state_id": "2104388420",
+    "subject": "Ktm 690 enduro r abs",
+    "type": "s"
+},
+{
+    "ad_id": "104599308",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "info@mascotmotor.com",
+            "phone": true
+        },
+        "name": "Mascot Motor",
+        "store_name": "Mascot Motor",
+        "type": "store"
+    },
+    "body": "Kampanj på Mx- tillbehör på vårt lager!\n\nNu 1st helt nytt i kartong ACERBIS Plastkit Orange OEM KTM \nKTM SX125/150/250 2013-2014\nKTM SXF250/450 2013-2014\n\nNu detta kit: 699:-\n\nOrd. pris: 1.995:-\n\nVi skickar med med Postnord, kampanjfraktkostnad 99:- tillkommer.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1160",
+            "name": "MC-delar \\u0026 tillbehör"
+        },
+        {
+            "id": "1162",
+            "name": "Reservdelar"
+        }
+    ],
+    "images": [
+        {
+            "height": 545,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/8685210210.jpg",
+            "width": 719
+        }
+    ],
+    "list_id": "105426601",
+    "list_time": "2023-02-03T17:39:05+01:00",
+    "location": [
+        {
+            "id": "17",
+            "name": "Jönköping",
+            "query_key": "r"
+        },
+        {
+            "id": "220",
+            "name": "Nässjö",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2257132%22%7D\\u0026zoom.to=location",
+        "label": "571 32 Nässjö, Jönköpings län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=104599308",
+    "price": {
+        "suffix": "kr",
+        "value": 699
+    },
+    "share_url": "https://www.blocket.se/annons/jonkoping/kampanj_acerbis_plastkit_ktm_sx_sxf_125_250_450_2013_2014/104599308",
+    "state_id": "2104258682",
+    "subject": "Kampanj ACERBIS Plastkit KTM SX SXF 125 250 450 2013-2014",
+    "type": "s",
+    "zipcode": "57132"
+},
+{
+    "ad_id": "106731575",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "mc": true
+        },
+        "logo": {
+            "height": 332,
+            "type": "logo",
+            "url": "https://i.blocketcdn.se/pictures/9164956826.jpg",
+            "width": 1280
+        },
+        "name": "Fmoto",
+        "type": "company"
+    },
+    "body": "Hjulset/hjulkit bak, fram och även lösa hjul.\nKvalitetshjul från SM-pro med extra starka Bulldog ekrar.\nÄven bra priser på fotpinnar till KTM och diverse glasögon från 100%\n\nBesök vår hemsida www.fmoto.se eller skicka ett meddelande.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1160",
+            "name": "MC-delar \\u0026 tillbehör"
+        },
+        {
+            "id": "1161",
+            "name": "Däck \\u0026 fälg"
+        }
+    ],
+    "images": [
+        {
+            "height": 800,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9144808548.jpg",
+            "width": 1224
+        },
+        {
+            "height": 764,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9166414842.jpg",
+            "width": 1280
+        },
+        {
+            "height": 829,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9164731007.jpg",
+            "width": 920
+        },
+        {
+            "height": 739,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9196856887.jpg",
+            "width": 1000
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9142661735.jpg",
+            "width": 1024
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9163209058.jpg",
+            "width": 1024
+        }
+    ],
+    "list_id": "107682494",
+    "list_time": "2023-02-03T17:25:43+01:00",
+    "location": [
+        {
+            "id": "13",
+            "name": "Skaraborg",
+            "query_key": "r"
+        },
+        {
+            "id": "164",
+            "name": "Töreboda",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2254534%22%7D\\u0026zoom.to=location",
+        "label": "545 34 Töreboda, Västra Götalands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106731575",
+    "price": {
+        "suffix": "kr",
+        "value": 8995
+    },
+    "share_url": "https://www.blocket.se/annons/skaraborg/hjul_ktm_husqvarna_gasgas/106731575",
+    "state_id": "2104253015",
+    "subject": "Hjul KTM, Husqvarna \\u0026 GasGas",
+    "type": "s",
+    "zipcode": "54534"
+},
+{
+    "ad_id": "106463995",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "1211729",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Micke",
+        "public_profile": {
+            "account_created_at": "2013-09-09T17:08:29.672Z",
+            "badges": [
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "1211729",
+            "display_name": "Micke",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "En mycket fin KTM el-cross. Går riktigt fint. Endast gått 19,3 timmar. Bra däck, bra drivpaket. Har endast gått på lite grusvägar och i skogen.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/7832419753.jpg",
+            "width": 1280
+        },
+        {
+            "height": 958,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/7834803725.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/7892783123.jpg",
+            "width": 580
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/7837679546.jpg",
+            "width": 472
+        }
+    ],
+    "list_id": "107404546",
+    "list_time": "2023-02-03T17:10:33+01:00",
+    "location": [
+        {
+            "id": "10",
+            "name": "Uppsala",
+            "query_key": "r"
+        },
+        {
+            "id": "108",
+            "name": "Enköping",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2274536%22%7D\\u0026zoom.to=location",
+        "label": "745 36 Enköping, Uppsala län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106463995",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2015"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 45000
+    },
+    "share_url": "https://www.blocket.se/annons/uppsala/ktm_freeride_e_sx/106463995",
+    "state_id": "2104249036",
+    "subject": "KTM freeride e-sx",
+    "type": "s",
+    "zipcode": "74536"
+},
+{
+    "ad_id": "106731229",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "577203",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Frank Andreasson",
+        "public_profile": {
+            "account_created_at": "2012-08-17T19:02:26.234Z",
+            "badges": [],
+            "blocket_account_id": "577203",
+            "display_name": "Frank Andreasson",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "KTM Life Fun 28\", 21-växlad. Dubbdäck monterade. Fjädring i framgaffel och fjädring i sadel.\nSommardäck ingår inte.\nEndast Swish betalning.",
+    "category": [
+        {
+            "id": "6000",
+            "name": "Fritid \\u0026 hobby"
+        },
+        {
+            "id": "6060",
+            "name": "Cyklar"
+        },
+        {
+            "id": "6062",
+            "name": "Herrcyklar"
+        }
+    ],
+    "co2_text": "Denna vara sparar 94 kg CO₂e vilket motsvarar produktionen av 3 nya mobiltelefoner.",
+    "images": [
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9209129268.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9226175906.jpg",
+            "width": 1280
+        }
+    ],
+    "list_id": "107681900",
+    "list_time": "2023-02-03T16:54:37+01:00",
+    "location": [
+        {
+            "id": "15",
+            "name": "Göteborg",
+            "query_key": "r"
+        },
+        {
+            "id": "179",
+            "name": "Göteborgs stad",
+            "query_key": "m"
+        },
+        {
+            "id": "1",
+            "name": "Hisingen",
+            "query_key": "sa"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106731229",
+    "price": {
+        "suffix": "kr",
+        "value": 800
+    },
+    "share_url": "https://www.blocket.se/annons/goteborg/cykel_28_ktm_life_fun/106731229",
+    "state_id": "2104409638",
+    "subject": "Cykel 28\" KTM Life Fun",
+    "type": "s"
+},
+{
+    "ad_id": "106727335",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "231646",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Gabriel",
+        "public_profile": {
+            "account_created_at": "2012-01-17T13:29:31.11Z",
+            "badges": [
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "231646",
+            "display_name": "Gabriel",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Säljes pga skada, kan fås med WP's XPLOR PRO 7548 Gaffel och XPLOR PRO 8946 dämpare. (Nypris 56000kr) Byggd för 85-90kg av RG3\n\n* Original fjädring oanvänd.\n* Onegripper sadelöverdrag\n* Nya dubbdäck\n* Oanvända sommardäck\n* Skydd för motorkåpor\n* Lite filter etc\n\nPris med fjädring 130.000kr\nPris med fjädring och NYA SM PRO hjul med skivor och drev. 135.000kr\n\nFjädringen löst 35.000kr\nHjulen löst 10.000kr",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 874,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9138458890.jpg",
+            "width": 1146
+        }
+    ],
+    "list_id": "107678068",
+    "list_time": "2023-02-03T14:26:28+01:00",
+    "location": [
+        {
+            "id": "11",
+            "name": "Stockholm",
+            "query_key": "r"
+        },
+        {
+            "id": "129",
+            "name": "Sollentuna",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2219257%22%7D\\u0026zoom.to=location",
+        "label": "192 57 Sollentuna, Stockholms län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106727335",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2023"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 95000
+    },
+    "share_url": "https://www.blocket.se/annons/stockholm/ktm_ecx_f_250_endast_kord_1_5h/106727335",
+    "state_id": "2104193530",
+    "subject": "KTM ECX-F 250, Endast körd 1,5h",
+    "type": "s",
+    "zipcode": "19257"
+},
+{
+    "ad_id": "106725010",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "90318",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "Ola Lindstrom",
+        "public_profile": {
+            "account_created_at": "2011-10-27T15:37:18.707Z",
+            "badges": [
+                {
+                    "description": "3 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                }
+            ],
+            "blocket_account_id": "90318",
+            "display_name": "Ola Lindstrom",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Mätarställning: 25156 mil\nSenaste service: Juli 2022, utan anmärkning\n\nUtöver grundutrustning:\n- Coober Power Kit (Piggyback-ECU med tillhörande luftfilter, läs mer här: https://cooberecu.com/collections/ktm-790-series/products/coober-ecu-air-box-cover-kit-ktm-790-duke-2018-2020)\n- Mindre framdrev (-1 tand, 15T)\n- SC Project S1 slip-on (med uttagbar dB-killer )\n- Värmehandtag\n- KTM Powerparts bar-end mirrors\n- Puig kopplings- och bromshandtag\n- Pirelli Diablo Rosso III däck\n- Tail Tidy av okänt fabrikat (tidigare ägare)\n- Motoproworks dekal-kit (https://www.motoproworks.com/products/ktm-790-890-duke-graphic-kit-rasorblade-blue-orange-black)\n\nKommer med, ej monterat:\n- Motoproworks dekaler till hjul och för singelkuts\n- Puig Handskydd\n- Flyscreen\n- Original avgassystem och backspeglar\n\nInga byten.\n\nHör av dig om du har några frågor eller funderingar!\n\nMvh,\nOla",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1145",
+            "name": "Sport"
+        }
+    ],
+    "images": [
+        {
+            "height": 825,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9184838093.jpg",
+            "width": 1100
+        },
+        {
+            "height": 801,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9123595169.jpg",
+            "width": 1068
+        },
+        {
+            "height": 758,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9115771987.jpg",
+            "width": 1011
+        }
+    ],
+    "list_id": "107677202",
+    "list_time": "2023-02-03T14:09:43+01:00",
+    "location": [
+        {
+            "id": "11",
+            "name": "Stockholm",
+            "query_key": "r"
+        },
+        {
+            "id": "141",
+            "name": "Österåker",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2218451%22%7D\\u0026zoom.to=location",
+        "label": "184 51 Österskär, Stockholms län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106725010",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2019"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 67000
+    },
+    "share_url": "https://www.blocket.se/annons/stockholm/ktm_790_duke/106725010",
+    "state_id": "2104186059",
+    "subject": "KTM 790 Duke",
+    "type": "s",
+    "zipcode": "18451"
+},
+{
+    "ad_id": "106724299",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "5401708",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "marcus_j06",
+        "public_profile": {
+            "account_created_at": "2018-11-24T14:51:04.091Z",
+            "badges": [
+                {
+                    "description": "3 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                }
+            ],
+            "blocket_account_id": "5401708",
+            "display_name": "marcus_j06",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Hej, säljer min hoj då jag tappat intresset.\nDen är i bra skick och har alltid varit servad med ca 15h intervaller, samt regelbundet servad med slitage delar. Aldrig tävlings körd, köptes ny som motions hojj och har efter de alltid varit motions åkt. Riktigt schysst motorcykel me andra ord. 64hr på mätaren. Bra däck sitter på. Läcker inget. Skriv vid fler frågor",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9161276785.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9127779502.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9189334858.jpg",
+            "width": 559
+        }
+    ],
+    "list_id": "107675475",
+    "list_time": "2023-02-03T12:42:09+01:00",
+    "location": [
+        {
+            "id": "16",
+            "name": "Älvsborg",
+            "query_key": "r"
+        },
+        {
+            "id": "209",
+            "name": "Ulricehamn",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2252397%22%7D\\u0026zoom.to=location",
+        "label": "523 97 Ulricehamn, Västra Götalands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106724299",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2019"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 50000
+    },
+    "share_url": "https://www.blocket.se/annons/alvsborg/ktm_250/106724299",
+    "state_id": "2104229376",
+    "subject": "Ktm 250",
+    "type": "s",
+    "zipcode": "52397"
+},
+{
+    "ad_id": "106725377",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "bil@fmaklarna.se",
+            "phone": true
+        },
+        "name": "Fordonsmäklarna i Öresund",
+        "store_name": "Fordonsmäklarna i Öresund",
+        "type": "store"
+    },
+    "body": "KTM 690 Duke\nMätarställning: 19662 mil\nFärg: Flerfärgad\nTyp: Sport\nVälkomna till Fordonsmäklarna i Öresund. \nNu har vi fått in denna riktigt fina KTM 690 Duke 2008 i lager för omgående leverans.\n\nBesiktad till och med: 2023-04-30\nMichelin pilot däck\nVi erbjuder även fri hemleverans inom Skåne län.\nVänligen ring för personlig service - visning och mer information.\nTelefonnummer: 040-183900\n\nMåndag - fredag 10:00 - 18:00 \nLördag - söndagar endast bokade tider.\nVi finns på Segedalsvägen 3. 232 91 i Arlöv",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1145",
+            "name": "Sport"
+        }
+    ],
+    "images": [
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9166072558.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9174595877.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9151305748.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9185399024.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9193922343.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9102445662.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9110968981.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9145062257.jpg",
+            "width": 1280
+        },
+        {
+            "height": 853,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9153585576.jpg",
+            "width": 1280
+        }
+    ],
+    "list_id": "107675323",
+    "list_time": "2023-02-03T12:35:52+01:00",
+    "location": [
+        {
+            "id": "23",
+            "name": "Skåne",
+            "query_key": "r"
+        },
+        {
+            "id": "260",
+            "name": "Burlöv",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106725377",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2008"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16746361",
+        "name": "bytbil"
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 37500
+    },
+    "share_url": "https://www.blocket.se/annons/skane/ktm_690_duke/106725377",
+    "state_id": "2104161140",
+    "subject": "KTM 690 Duke",
+    "type": "s"
+},
+{
+    "ad_id": "106725157",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "mc@hojbutiken.se",
+            "phone": true
+        },
+        "name": "Hojbutiken",
+        "store_name": "HojButiken.se",
+        "type": "store"
+    },
+    "body": "KTM 1290 Duke-2022 Extra utrustad \nMätarställning: 0 mil\nFärg: \nTyp: Sport\nTotalkostnad på denna bike Ordinarie pris:219669:-  NU 189900:- spara in 29769:-\nExtra utrustad med \nVikbara koppling och broms grepp värde 5130:-\nKolfiber Sätes cover            2141:-\nAxel mutter skydd                1597:-\nErgodyna                                1820:-\nAkrapovic slipon                   16081:-",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1145",
+            "name": "Sport"
+        }
+    ],
+    "images": [
+        {
+            "height": 480,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9171558170.jpg",
+            "width": 640
+        },
+        {
+            "height": 640,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9105651446.jpg",
+            "width": 480
+        },
+        {
+            "height": 640,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9114174765.jpg",
+            "width": 480
+        },
+        {
+            "height": 640,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9131221403.jpg",
+            "width": 480
+        },
+        {
+            "height": 640,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9156791360.jpg",
+            "width": 480
+        },
+        {
+            "height": 640,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9190884636.jpg",
+            "width": 480
+        },
+        {
+            "height": 640,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9116454593.jpg",
+            "width": 480
+        },
+        {
+            "height": 640,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9142024550.jpg",
+            "width": 480
+        },
+        {
+            "height": 640,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9167594507.jpg",
+            "width": 480
+        },
+        {
+            "height": 640,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9193164464.jpg",
+            "width": 480
+        }
+    ],
+    "list_id": "107675068",
+    "list_time": "2023-02-03T12:25:52+01:00",
+    "location": [
+        {
+            "id": "12",
+            "name": "Södermanland",
+            "query_key": "r"
+        },
+        {
+            "id": "145",
+            "name": "Katrineholm",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106725157",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2022"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16746314",
+        "name": "bytbil"
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 189900
+    },
+    "share_url": "https://www.blocket.se/annons/sodermanland/ktm_1290_duke_2022_extra_utrustad/106725157",
+    "state_id": "2104157360",
+    "subject": "KTM 1290 Duke-2022 Extra utrustad",
+    "type": "s"
+},
+{
+    "ad_id": "106723280",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "mc@hojbutiken.se",
+            "phone": true
+        },
+        "name": "Hojbutiken",
+        "store_name": "HojButiken.se",
+        "type": "store"
+    },
+    "attributes": [
+        {
+            "header": "Utrustning",
+            "id": "car_equipment",
+            "items": [
+                "Quickshifter"
+            ]
+        }
+    ],
+    "body": "KTM 690 SMC-R, från 1.152kr/månad utan handpenning. \nMätarställning: 0 mil\nFärg: \nTyp: SuperMotard\nVi har många fördelaktiga finansieringsalternativ, bla 36 månader räntefritt, låg månadskostnad utan handpenning.\nKontakta butiken för offert.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1148",
+            "name": "Övrigt"
+        }
+    ],
+    "images": [
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9190209263.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9109535729.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9126582367.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9169198962.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9171478790.jpg",
+            "width": 768
+        }
+    ],
+    "list_id": "107673290",
+    "list_time": "2023-02-03T11:05:55+01:00",
+    "location": [
+        {
+            "id": "12",
+            "name": "Södermanland",
+            "query_key": "r"
+        },
+        {
+            "id": "145",
+            "name": "Katrineholm",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106723280",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2023"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16745998",
+        "name": "bytbil"
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 124900
+    },
+    "share_url": "https://www.blocket.se/annons/sodermanland/ktm_690_smc_r_fran_1_152kr_manad_utan_handpenning_/106723280",
+    "state_id": "2104133209",
+    "subject": "KTM 690 SMC-R, från 1.152kr/månad utan handpenning.",
+    "type": "s"
+},
+{
+    "ad_id": "106721442",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "info@stomberg.se",
+            "phone": true
+        },
+        "name": "Stombergs CM AB",
+        "store_name": "Stombergs CM AB",
+        "type": "store"
+    },
+    "body": "Kompletta hjul med dubbdäck samt ett extra dubbdäck bredvid. Passar:\n\nKTM 50 SX 2015-2023\nHusqvarna TC 50 2017-2023\nGasGas MC 50 2021-2023\n\nPriset inkluderar eventuell frakt. Kan även köpas direkt via vår webshop.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1160",
+            "name": "MC-delar \\u0026 tillbehör"
+        },
+        {
+            "id": "1161",
+            "name": "Däck \\u0026 fälg"
+        }
+    ],
+    "images": [
+        {
+            "height": 907,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9104520328.jpg",
+            "width": 1209
+        },
+        {
+            "height": 768,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9111359812.jpg",
+            "width": 1024
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9150012744.jpg",
+            "width": 768
+        }
+    ],
+    "infopage": {
+        "text": "Köp via webshop",
+        "url": "https://stomberg.se/produkt/hjul-med-dubbdack-ktm-50-sx-2015/?utm_medium=web#/"
+    },
+    "list_id": "107672259",
+    "list_time": "2023-02-03T10:25:34+01:00",
+    "location": [
+        {
+            "id": "13",
+            "name": "Skaraborg",
+            "query_key": "r"
+        },
+        {
+            "id": "161",
+            "name": "Skövde",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2254192%22%7D\\u0026zoom.to=location",
+        "label": "541 92 Skövde, Västra Götalands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106721442",
+    "price": {
+        "suffix": "kr",
+        "value": 7000
+    },
+    "share_url": "https://www.blocket.se/annons/skaraborg/hjul_med_dubbdack_ktm_50_sx_2015_/106721442",
+    "state_id": "2104119516",
+    "subject": "Hjul med dubbdäck, KTM 50 SX 2015-",
+    "type": "s",
+    "zipcode": "54192"
+},
+{
+    "ad_id": "106721696",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "mc@gmckarlstad.se",
+            "phone": true
+        },
+        "name": "GMC Karlstad AB",
+        "store_name": "GMC Karlstad AB",
+        "type": "store"
+    },
+    "attributes": [
+        {
+            "header": "Utrustning",
+            "id": "car_equipment",
+            "items": [
+                "Offroadkörläge",
+                "Offroad ABS",
+                "Kurv-ABS",
+                "Bluetooth",
+                "Tractioncontroll",
+                "A2 Godkänd",
+                "Ekerhjul"
+            ]
+        }
+    ],
+    "body": "KTM 390 Adventure SW 2,99% i ränta \nMätarställning: -1 mil\nFärg: Orange\nTyp: Offroad\nKontakta oss för tillgänglighet samt leveranstid. \nKampanjränta 2,99% via Santander. 20% kontantinsats med 36 månaders amorteringstid. Uppläggningsavgift: 695 Aviseringsavgift 55 kr. Kampanjen gäller tom 31/3-2023\nVi tar emot inbyten och kan ordna förmånlig finansiering!\nADV",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1147",
+            "name": "Offroad"
+        }
+    ],
+    "images": [
+        {
+            "height": 582,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9142438061.jpg",
+            "width": 689
+        },
+        {
+            "height": 565,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9185054656.jpg",
+            "width": 831
+        },
+        {
+            "height": 580,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9102101294.jpg",
+            "width": 679
+        },
+        {
+            "height": 556,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9119147932.jpg",
+            "width": 809
+        }
+    ],
+    "list_id": "107671726",
+    "list_time": "2023-02-03T09:53:53+01:00",
+    "location": [
+        {
+            "id": "7",
+            "name": "Värmland",
+            "query_key": "r"
+        },
+        {
+            "id": "77",
+            "name": "Karlstad",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106721696",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2023"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16745729",
+        "name": "bytbil"
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 77900
+    },
+    "share_url": "https://www.blocket.se/annons/varmland/ktm_390_adventure_sw_2_99_i_ranta/106721696",
+    "state_id": "2104111801",
+    "subject": "KTM 390 Adventure SW 2,99% i ränta",
+    "type": "s"
+},
+{
+    "ad_id": "106720855",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "2313320",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "sofie",
+        "public_profile": {
+            "account_created_at": "2015-04-14T19:14:26.888Z",
+            "badges": [
+                {
+                    "description": "6 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                },
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "2313320",
+            "display_name": "sofie",
+            "number_of_active_ads": 2,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Säljer min väldigt fina Ktm sixday\n\nKörd ca. 93 tim\n\nModifierad fjädring av kumlins \nför 85-90kg\nAkrapovic ljuddämpare \nLandsvägs kitt ingår \n\nUttagen nov -20\n\nExtremt välvårdad!\n\nFörsta kontakt sker via meddelande",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9142977354.jpg",
+            "width": 498
+        },
+        {
+            "height": 240,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9102628083.jpg",
+            "width": 320
+        },
+        {
+            "height": 320,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9153767997.jpg",
+            "width": 240
+        },
+        {
+            "height": 320,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9187861273.jpg",
+            "width": 240
+        },
+        {
+            "height": 320,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9156047825.jpg",
+            "width": 240
+        },
+        {
+            "height": 360,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9141281015.jpg",
+            "width": 480
+        }
+    ],
+    "list_id": "107671351",
+    "list_time": "2023-02-03T09:35:35+01:00",
+    "location": [
+        {
+            "id": "7",
+            "name": "Värmland",
+            "query_key": "r"
+        },
+        {
+            "id": "77",
+            "name": "Karlstad",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2265591%22%7D\\u0026zoom.to=location",
+        "label": "655 91 Karlstad, Värmlands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106720855",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2020"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 65000
+    },
+    "share_url": "https://www.blocket.se/annons/varmland/ktm_350_sixday/106720855",
+    "state_id": "2104311636",
+    "subject": "KTM 350 sixday",
+    "type": "s",
+    "zipcode": "65591"
+},
+{
+    "ad_id": "106721195",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "info@stomberg.se",
+            "phone": true
+        },
+        "name": "Stombergs CM AB",
+        "store_name": "Stombergs CM AB",
+        "type": "store"
+    },
+    "body": "Komplett KTM original avgassystem som passar till:\n\nKTM 250 EXC 2017\nKTM 250 EXC TPI 2018-2019\nKTM 300 EXC 2017\nKTM 300 EXC TPI 2018-2019\n\nVäldigt lätt begagnat, kanske körts 1-2 timmar. Artikelnummer:\n\n55605083000\n55405007000\n\nNypris: 5370 kr\nVårt pris: 2900 kr\n\nPriset inkluderar eventuell frakt. Kan även köpas direkt via vår webshop.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1160",
+            "name": "MC-delar \\u0026 tillbehör"
+        },
+        {
+            "id": "1162",
+            "name": "Reservdelar"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9176989166.jpg",
+            "width": 768
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9164502184.jpg",
+            "width": 1280
+        }
+    ],
+    "infopage": {
+        "text": "Köp via webshop",
+        "url": "https://stomberg.se/produkt/avgassystem-original-ktm-250-300-exc-tpi-17-19/?utm_medium=web#/"
+    },
+    "list_id": "107671248",
+    "list_time": "2023-02-03T09:32:29+01:00",
+    "location": [
+        {
+            "id": "13",
+            "name": "Skaraborg",
+            "query_key": "r"
+        },
+        {
+            "id": "161",
+            "name": "Skövde",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2254192%22%7D\\u0026zoom.to=location",
+        "label": "541 92 Skövde, Västra Götalands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106721195",
+    "price": {
+        "suffix": "kr",
+        "value": 2900
+    },
+    "share_url": "https://www.blocket.se/annons/skaraborg/avgassystem_original_ktm_250_300_exc_tpi_17_19/106721195",
+    "state_id": "2104104843",
+    "subject": "Avgassystem Original KTM 250/300 EXC TPI 17-19",
+    "type": "s",
+    "zipcode": "54192"
+},
+{
+    "ad_id": "105900900",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "christoffer@adrenalinemotors.se",
+            "phone": true,
+            "sms": true
+        },
+        "name": "Adrenaline Motors \\u0026 Workshop AB",
+        "store_name": "Adrenaline Motors \\u0026 Workshop AB",
+        "type": "store"
+    },
+    "attributes": [
+        {
+            "header": "Utrustning",
+            "id": "car_equipment",
+            "items": [
+                "Svensksåld"
+            ]
+        }
+    ],
+    "body": "KTM 1290 Super Adventure R # Komplett väskpaket \nMätarställning: 523 mil\nFärg: Flerfärgad\nTyp: Touring/Landsväg\nÄntligen har vi fått in en KTM 1290 SAR -21 i butiken.\n\nKTM 1290 Superadventure R \n2021 års modell\nRullat ca 523 mil. \nServad enligt bok. ( senast juni -22)\n Metzeler karoo street Ca 80% fram / 65% bak.\n\nDessa modeller kommer med otroligt mycket funktioner och finesser ifrån fabrik såsom :\n\n# Traction Control\n# ABS\n# Olika körlägen\n# Farthållare\n# TPMS sensorer ( däcktryck )\n# DRL Ljus\n# Bukplåt\n# Centralstöd \nM.m m.m\n\nUtrustad med följande : \n# Tech Pack ( Quickshift m.m ) \n# Rally Pack ( Stegbar Traction m.m )\n# KTM handtagsvärmare (original) \n# Kraschbåge\n# PUIG högre ruta ( original medföljer )\n# GIVI GPS/Phone bar\n# Komplett väskpaket - Sidoväskor inkl Toppbox. Helt nytt.  Ordinarie pris = 18.652kr !\n\nVälkommen att kontakta oss för finansieringsförslag.\n\nVi räknar gärna på inbyte av ditt nuvarande fordon.\n\n* KTM 1290R Super ADV *\n\nVälkommen in till oss!",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1146",
+            "name": "Touring"
+        }
+    ],
+    "images": [
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6601265240.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6609788559.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6618311878.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6652405154.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6612068387.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6637638344.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6646161663.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6671731620.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6697301577.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6614348215.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6631394853.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6648441491.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6699581405.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6616628043.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6667767957.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6618907871.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/6635954509.jpg",
+            "width": 1280
+        }
+    ],
+    "list_id": "106814155",
+    "list_time": "2023-02-03T08:36:08+01:00",
+    "location": [
+        {
+            "id": "5",
+            "name": "Gävleborg",
+            "query_key": "r"
+        },
+        {
+            "id": "48",
+            "name": "Hudiksvall",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=105900900",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2021"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16671311",
+        "name": "bytbil"
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 174995
+    },
+    "share_url": "https://www.blocket.se/annons/gavleborg/ktm_1290_super_adventure_r_komplett_vaskpaket/105900900",
+    "state_id": "2104092967",
+    "subject": "KTM 1290 Super Adventure R # Komplett väskpaket",
+    "type": "s"
+},
+{
+    "ad_id": "106718610",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "5060106",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "liam_bollman",
+        "public_profile": {
+            "account_created_at": "2018-08-08T23:09:56.109Z",
+            "badges": [
+                {
+                    "description": "7 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                },
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "5060106",
+            "display_name": "liam_bollman",
+            "number_of_active_ads": 3,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Säljer nu min trogna KTM efter två säsonger (stått still i garage hela säsongen 2022). Inköpt 2020 ny och jag är den enda ägaren. \n\nServad vid 100 mil och vid runt 800 mil. I nuvarande stund har den gått 12xx mil. Den har används som pendlings-hoj fram och tillbaka till jobbet under somrarna. Lugnt körda mil och EJ stuntad med.\n\nAldrig lagts ner!\n\nInga defekter eller problem under mitt ägo.\n\nDet som har gjorts är:\n\nTailtidy\n\nTagit bort dB-killern, (låter som ett akrapovic rör)\n\nMetallic-svart folierad\n\nÄndrat fram-kugget för lägre varvtal och högre topphastighet. Därav längre växlar och mjukare körning. Standardkugget finns kvar.\n\nVälvårdad och alltid tvättad och ren. En väldigt fin hoj som jämför sig med större hojar i ljud och utseende. \n\nFrågor? Fråga.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1145",
+            "name": "Sport"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9056319187.jpg",
+            "width": 576
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9029065395.jpg",
+            "width": 576
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9071681990.jpg",
+            "width": 576
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9088728628.jpg",
+            "width": 576
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9008055094.jpg",
+            "width": 576
+        },
+        {
+            "height": 625,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9012614750.jpg",
+            "width": 1111
+        }
+    ],
+    "list_id": "107669504",
+    "list_time": "2023-02-03T07:29:18+01:00",
+    "location": [
+        {
+            "id": "8",
+            "name": "Örebro",
+            "query_key": "r"
+        },
+        {
+            "id": "97",
+            "name": "Örebro",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2270229%22%7D\\u0026zoom.to=location",
+        "label": "702 29 Örebro, Örebro län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106718610",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2019"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 40000
+    },
+    "share_url": "https://www.blocket.se/annons/orebro/otroligt_snygg_ktm_125_duke_svart_metallic_folierad/106718610",
+    "state_id": "2104080481",
+    "subject": "Otroligt snygg KTM 125 Duke, svart metallic folierad",
+    "type": "s",
+    "zipcode": "70229"
+},
+{
+    "ad_id": "105906354",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "4846894",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "isacrydberg",
+        "public_profile": {
+            "account_created_at": "2018-05-31T09:41:38.375Z",
+            "badges": [
+                {
+                    "description": "3 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                },
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "4846894",
+            "display_name": "isacrydberg",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Hej! Säljer hojen då jag inte kör nått. \n\nLite snabb info. \n\nHelt nya däck sitter på. \n\nStep-up sadel och överdrag. \n\nlaunch control på gaffeln. \n\nNytt dekalkitt. \n\n50h\n\nVäldigt fin cykel! och är de nått du undrar över är de bara att skriva eller ringa. 0733254325 mvh isac",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/4807044330.jpg",
+            "width": 472
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/4872459205.jpg",
+            "width": 768
+        }
+    ],
+    "list_id": "106820133",
+    "list_time": "2023-02-02T23:43:44+01:00",
+    "location": [
+        {
+            "id": "4",
+            "name": "Västernorrland",
+            "query_key": "r"
+        },
+        {
+            "id": "43",
+            "name": "Ånge",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2284191%22%7D\\u0026zoom.to=location",
+        "label": "841 91 Ånge, Västernorrlands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=105906354",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2016"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "old_value": 36000,
+        "price_lowered": true,
+        "suffix": "kr",
+        "value": 31000
+    },
+    "share_url": "https://www.blocket.se/annons/vasternorrland/ktm_sx_f_350/105906354",
+    "state_id": "2104056848",
+    "subject": "Ktm sx-f 350",
+    "type": "s",
+    "zipcode": "84191"
+},
+{
+    "ad_id": "106718682",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "2705947",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "simon-bergstrom",
+        "public_profile": {
+            "account_created_at": "2016-05-09T13:12:14.558Z",
+            "badges": [],
+            "blocket_account_id": "2705947",
+            "display_name": "simon-bergstrom",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Säljer ett originalrör som har suttit på min KTM 690 enduro.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1160",
+            "name": "MC-delar \\u0026 tillbehör"
+        },
+        {
+            "id": "1162",
+            "name": "Reservdelar"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9097980955.jpg",
+            "width": 768
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9040597550.jpg",
+            "width": 1280
+        }
+    ],
+    "list_id": "107668150",
+    "list_time": "2023-02-02T22:58:06+01:00",
+    "location": [
+        {
+            "id": "15",
+            "name": "Göteborg",
+            "query_key": "r"
+        },
+        {
+            "id": "179",
+            "name": "Göteborgs stad",
+            "query_key": "m"
+        },
+        {
+            "id": "2",
+            "name": "Innerstaden",
+            "query_key": "sa"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2241475%22%7D\\u0026zoom.to=location",
+        "label": "414 75 Göteborg, Västra Götalands län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106718682",
+    "price": {
+        "suffix": "kr",
+        "value": 1000
+    },
+    "share_url": "https://www.blocket.se/annons/goteborg/originalror_ktm_690/106718682",
+    "state_id": "2104052686",
+    "subject": "Originalrör KTM 690",
+    "type": "s",
+    "zipcode": "41475"
+},
+{
+    "ad_id": "106713653",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "3131728",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "matti.mantyla",
+        "public_profile": {
+            "account_created_at": "2016-08-30T07:55:29.906Z",
+            "badges": [
+                {
+                    "description": "Svarstid ca 1 timme",
+                    "icon_bui": "IconQuickResponseMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/paper_plane.png",
+                    "id": "fast-reply",
+                    "label": "Svarar snabbt"
+                }
+            ],
+            "blocket_account_id": "3131728",
+            "display_name": "matti.mantyla",
+            "number_of_active_ads": 1,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            },
+            "verified": true,
+            "verified_label": "BankID"
+        },
+        "type": "private"
+    },
+    "body": "Ktm 990 superduke 2010\n2900 mil\nBesiktiad till 2024-07-31\nAkrapovic pipor med underbart ljud.\nBra däck.\nNytt drivpaket vid ca 2400 mil.\nVentilkontroll, tändstift , olja och filter bytt vid 2800 mil / 2022-05-13. Kvitto finns.\n\nKan tänkas byta imot 250/300cc tvåtakts enduro motorcykel. \n\nAlltid funkat klockrent under min ägo. \nSuper trevlig och rolig maskin att köra.\nStår i låst och larmat garage på annan adress. \n\nSökord. Ktm ktm990 super duke superduke 990",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1146",
+            "name": "Touring"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9118195189.jpg",
+            "width": 460
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9137521655.jpg",
+            "width": 460
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9007607624.jpg",
+            "width": 497
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9178454415.jpg",
+            "width": 460
+        }
+    ],
+    "list_id": "107664551",
+    "list_time": "2023-02-02T18:51:50+01:00",
+    "location": [
+        {
+            "id": "21",
+            "name": "Kronoberg",
+            "query_key": "r"
+        },
+        {
+            "id": "246",
+            "name": "Lessebo",
+            "query_key": "m"
+        }
+    ],
+    "map": {
+        "image_url": "https://api.hitta.se/image/v2/0/15?location=%7B%22zip%22:%2236532%22%7D\\u0026zoom.to=location",
+        "label": "365 32 Lessebo, Kronobergs län",
+        "type": "zipcode"
+    },
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106713653",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2010"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "price": {
+        "suffix": "kr",
+        "value": 60000
+    },
+    "share_url": "https://www.blocket.se/annons/kronoberg/ktm_990_superduke/106713653",
+    "state_id": "2104083465",
+    "subject": "KTM 990 superduke",
+    "type": "s",
+    "zipcode": "36532"
+},
+{
+    "ad_id": "106714170",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "demontering@biketrollhattan.se"
+        },
+        "name": "BIKE MC-Demontering",
+        "store_name": "BIKE MC-Demontering",
+        "type": "store"
+    },
+    "body": "Nu har vi demonterat en KTM 690 Duke från 2012 med 2236 mil på mätaren!\n\nFrån denna MC har vi bl.a. demonterat komplett hjulpaket, krashbågar, ergo-sadel (powerparts) m.m.\n\nBild, pris och lagerstatus på ALLA kvarvarande köpbara delar från just denna MC ser du du i länken längst ned i annonsen, det är också där du slutför ditt köp. Delen försvinner från webshoppen så fort ett köp på den produkten har gjorts.\n\nNYHET: Delbetalning, faktura, swish eller kort via Svea. FRI FRAKT över 1000:-. Nu även returrätt på elektronik!\n\nDessa delar är demonterade, de blir sålda allt eftersom.\n\nAxel\nBackspegel\nBakram\nBakvinge / bakplast / bakkåpa\nBensintank / bränsletank / tank\nBensintankskåpa\nBromshuvudcylinder / huvudbromscylinder\nBromsok fram och bak / broms-ok\nBromspedal\nFotpinne\nFramskärm\nGaffelpaket innehållande två gaffelben, gaffelkrona övre och undre, broms med radial-ok och fat-bar styre.\nHjulpaket innehållande framfälg och bakfälg med däck, bromsok och abs-krans / framhjul / bakhjul / hjul\nKedjeskydd\nKopplingshuvudcylinder\nLjuddämpare / avgassystem\nMellanburk\nMotorskyddsbåge / krashbåge powerparts\nSadel powerparts ergo-sadel\nSidkåpa\nSidostöd\nStrålkastare\nStrålkastarhus\nStötdämpare / fjädring / bakfjädring\nStötdämparlänkage\nSving\nSvingskärm / hugger\nTändningslåskåpa\nUndertail\n\nAlla tillgängliga delar finns att köpa på länken nedan, där ser ni även pris och bilder. Tänk på att vissa delar i annonsen kan vara sålda när du ser den.",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1160",
+            "name": "MC-delar \\u0026 tillbehör"
+        },
+        {
+            "id": "1162",
+            "name": "Reservdelar"
+        }
+    ],
+    "images": [
+        {
+            "height": 675,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9045935742.jpg",
+            "width": 900
+        },
+        {
+            "height": 600,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9005598975.jpg",
+            "width": 600
+        },
+        {
+            "height": 600,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9065262208.jpg",
+            "width": 600
+        },
+        {
+            "height": 600,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9024925441.jpg",
+            "width": 600
+        },
+        {
+            "height": 600,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9076065355.jpg",
+            "width": 600
+        },
+        {
+            "height": 600,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9042568072.jpg",
+            "width": 600
+        }
+    ],
+    "infopage": {
+        "text": "Se alla delar från denna 690 Duke här",
+        "url": "https://bikepart.se/se/sok/mc4779?utm_medium=web"
+    },
+    "list_id": "107663870",
+    "list_time": "2023-02-02T18:25:16+01:00",
+    "location": [
+        {
+            "id": "16",
+            "name": "Älvsborg",
+            "query_key": "r"
+        },
+        {
+            "id": "208",
+            "name": "Trollhättan",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106714170",
+    "price": {
+        "suffix": "kr",
+        "value": 500
+    },
+    "share_url": "https://www.blocket.se/annons/alvsborg/ktm_690_duke_12_begagnade_mc_delar/106714170",
+    "state_id": "2103993174",
+    "subject": "KTM 690 Duke -12. Begagnade MC-delar",
+    "type": "s",
+    "zipcode": "46137"
+},
+{
+    "ad_id": "106713398",
+    "ad_status": "active",
+    "advertiser": {
+        "account_id": "41007470",
+        "contact_methods": {
+            "mc": true
+        },
+        "name": "birgitta",
+        "public_profile": {
+            "account_created_at": "2021-08-26T11:02:30.722Z",
+            "badges": [
+                {
+                    "description": "21 annonser inom 6 mån",
+                    "icon_bui": "IconMedalMulticolor",
+                    "icon_src": "https://public-assets.blocketcdn.se/static/icons/medal.png",
+                    "id": "active-user",
+                    "label": "Aktiv på Blocket"
+                }
+            ],
+            "blocket_account_id": "41007470",
+            "display_name": "birgitta",
+            "number_of_active_ads": 4,
+            "reviews": {
+                "overall_score": 0,
+                "reviews_received_count": 0
+            }
+        },
+        "type": "private"
+    },
+    "body": "ORANGE ABONNEMANGSFRI MX-TRANSPONDER FÖR MOTOCROSS, SNÖSKOTER OCH ENDURO.\n\nTRANSPONDERN ÄR I BRA SKICK.\n\nBATTERIET ÄR FRISKT MED 4 BLINK.\n\nKOMPLETT MED FJÄDERBENSFÄSTE, LADDHÅLLARE, 230 VOLT NÄTLADDARE OCH 12 VOLT BILLADDARE. \n\nFAST PRIS: 5600 KR \n\nVÄNLIGEN SVARA MED FULLSTÄNDIGT NAMN OCH TELEFONNUMMER OCH ENDAST VID SERIÖST INTRESSE. \n\nSynonymer: Tidtagning, motorsport, KTM, GGN, Yamaha, Suzuki, Honda, Sherco, Husaberg, Husqvarna, Kawasaki, TM, GasGas, Aprilia, Cagiva, Gotland Grand National, Novemberkåsan, Vintercupen",
+    "category": [
+        {
+            "id": "6000",
+            "name": "Fritid \\u0026 hobby"
+        },
+        {
+            "id": "6180",
+            "name": "Sport- \\u0026 fritidsutrustning"
+        },
+        {
+            "id": "6185",
+            "name": "Träning \\u0026 hälsa"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9090468182.jpg",
+            "width": 867
+        }
+    ],
+    "list_id": "107663586",
+    "list_time": "2023-02-02T18:14:19+01:00",
+    "location": [
+        {
+            "id": "15",
+            "name": "Göteborg",
+            "query_key": "r"
+        },
+        {
+            "id": "179",
+            "name": "Göteborgs stad",
+            "query_key": "m"
+        },
+        {
+            "id": "2",
+            "name": "Innerstaden",
+            "query_key": "sa"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106713398",
+    "price": {
+        "suffix": "kr",
+        "value": 5600
+    },
+    "share_url": "https://www.blocket.se/annons/goteborg/amb_mx_mylaps_transponder_orange_/106713398",
+    "state_id": "2103990302",
+    "subject": "AMB MX MYLAPS TRANSPONDER ORANGE ",
+    "type": "s"
+},
+{
+    "ad_id": "103784683",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "info@bergracing.se",
+            "phone": true
+        },
+        "name": "Berg Racing",
+        "store_name": "Berg Racing",
+        "type": "store"
+    },
+    "body": "KTM SX f 250 \nMätarställning: -1 mil\nFärg: \nTyp: Cross/Enduro/Trial\nKTM SX 250 Motor renoverad Nytt vevparti vevstake ram-lager samt kolv kvitto finns gått ett par inkörnings timmar endast  på renovering .  \nFinans förslag  månads kostnad från 668kr\n My Money    \n9, 95% 144 månader \nBerg Racing  Kawasaki Sherco Beta Motocross Enduro Öppet Måndag till Fredag",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 720,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/5194479860.jpg",
+            "width": 1280
+        },
+        {
+            "height": 720,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/5128573136.jpg",
+            "width": 1280
+        },
+        {
+            "height": 720,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/5145619774.jpg",
+            "width": 1280
+        },
+        {
+            "height": 720,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/5196759688.jpg",
+            "width": 1280
+        }
+    ],
+    "list_id": "104563785",
+    "list_time": "2023-02-02T18:13:44+01:00",
+    "location": [
+        {
+            "id": "10",
+            "name": "Uppsala",
+            "query_key": "r"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=103784683",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2020"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16475333",
+        "name": "bytbil"
+    },
+    "price": {
+        "old_value": 59000,
+        "price_lowered": true,
+        "suffix": "kr",
+        "value": 56000
+    },
+    "share_url": "https://www.blocket.se/annons/uppsala/ktm_sx_f_250/103784683",
+    "state_id": "2103990148",
+    "subject": "KTM SX f 250",
+    "type": "s"
+},
+{
+    "ad_id": "106712481",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "bo@claessonsmotor.se",
+            "phone": true
+        },
+        "name": "Claessons Motor AB",
+        "store_name": "Claessons Motor AB",
+        "type": "store"
+    },
+    "attributes": [
+        {
+            "header": "Utrustning",
+            "id": "car_equipment",
+            "items": [
+                "Adaptiv farthållare",
+                "körprogram",
+                "Elektronisk justerbar fjädring",
+                "styrdämpare",
+                "23 liters bränsletank",
+                "bakgrundsbelysta knappar",
+                "sitthöjd 850-870mm",
+                "7 tums tiltbar TFT-skärm",
+                "fack med USB-uttag",
+                "kurv-ABS",
+                "däcktrycksmätare",
+                "lutningskänslig antispinn",
+                "offroad antispinn",
+                "offroad körläge"
+            ]
+        }
+    ],
+    "body": "KTM 1290 Super Adventure S \nMätarställning: 0 mil\nFärg: orange/svart\nTyp: Touring/Landsväg\nMjukvarutillbehör finns som tillval (RALLY PACK, Quickshifter+, Suspension Pro, MSR, HHC, Adaptive brake light)\n\nCovering ground quickly and effortlessly is what the KTM 1290 SUPER ADVENTURE S is made for. An Adventure-specced V-Twin with 160 hp \\u0026 138 Nm means that entire cross-country journeys are dispatched easily, while Adaptive Cruise Control and Semi-active Suspension together with reworked rider-focussed ergonomics and technology bring agility and long distance comfort to an entirely new level. It's a bold claim, but we'll make it - the KTM 1290 SUPER ADVENTURE S is the new benchmark.\n\nSuperadventure adventure s 1290Superadventures adventures 1290s",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1146",
+            "name": "Touring"
+        }
+    ],
+    "images": [
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9015917506.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9052290610.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9003430524.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9029000481.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9063093757.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9097187033.jpg",
+            "width": 768
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9014233671.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9065373585.jpg",
+            "width": 768
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9099466861.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9016513499.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9042083456.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9076176732.jpg",
+            "width": 768
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9027316646.jpg",
+            "width": 1280
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9012549836.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9031876302.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9025632811.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9076772725.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9010866001.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9044959277.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9079052553.jpg",
+            "width": 768
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9021669148.jpg",
+            "width": 768
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9023948976.jpg",
+            "width": 1280
+        }
+    ],
+    "list_id": "107662094",
+    "list_time": "2023-02-02T17:12:52+01:00",
+    "location": [
+        {
+            "id": "23",
+            "name": "Skåne",
+            "query_key": "r"
+        },
+        {
+            "id": "259",
+            "name": "Bromölla",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106712481",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2023"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16744884",
+        "name": "bytbil"
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 204900
+    },
+    "share_url": "https://www.blocket.se/annons/skane/ktm_1290_super_adventure_s/106712481",
+    "state_id": "2103969039",
+    "subject": "KTM 1290 Super Adventure S",
+    "type": "s"
+},
+{
+    "ad_id": "106711692",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "info@stomberg.se",
+            "phone": true
+        },
+        "name": "Stombergs CM AB",
+        "store_name": "Stombergs CM AB",
+        "type": "store"
+    },
+    "body": "GasGas MC 350F / Inbyte / Finans / Fraktas\nMätarställning: 8 mil\nFärg: Röd\nTyp: Cross/Enduro/Trial\nGasGas MC 350F 2023 finns i butiken för omgående leverans. Hojen har endast gått 8 timmar totalt sedan ny. Utrustad med mapswitch mousse och holeshot. Vi tar inbyte och kan ordna med mycket förmånlig finansiering, från 1 kr kontantinsats och räntefritt i upp till 36 månader. Flera andra alternativ finns. FRAKT kan ordnas i HELA Sverige!! För ytterligare information, vägbeskrivning och mer om oss – kontakta oss eller se vår hemsida stomberg.se -Gilla oss gärna på FACEBOOK \\u0026 INSTAGRAM så missar du inga erbjudanden nyheter med mera! Sök: KTM 250 SX-F SXF Husqvarna FC 250",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9061740927.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9012880841.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9064020755.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9098114031.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9008917178.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9094150368.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9045290282.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9015756662.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9075419895.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9035083128.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9077699723.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9037362956.jpg",
+            "width": 1280
+        },
+        {
+            "height": 960,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9048166103.jpg",
+            "width": 1280
+        }
+    ],
+    "list_id": "107661436",
+    "list_time": "2023-02-02T16:41:53+01:00",
+    "location": [
+        {
+            "id": "13",
+            "name": "Skaraborg",
+            "query_key": "r"
+        },
+        {
+            "id": "161",
+            "name": "Skövde",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106711692",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2023"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16744765",
+        "name": "bytbil"
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 89900
+    },
+    "share_url": "https://www.blocket.se/annons/skaraborg/gasgas_mc_350f_inbyte_finans_fraktas/106711692",
+    "state_id": "2103955420",
+    "subject": "GasGas MC 350F / Inbyte / Finans / Fraktas",
+    "type": "s"
+},
+{
+    "ad_id": "106711034",
+    "ad_status": "active",
+    "advertiser": {
+        "contact_methods": {
+            "email": "butik@ljunggrensmotor.se",
+            "phone": true
+        },
+        "name": "Ljunggrens Motor",
+        "store_name": "Ljunggrens Motor",
+        "type": "store"
+    },
+    "body": "KTM 350 EXCF 2023 \nMätarställning: -1 mil\nFärg: \nTyp: Cross/Enduro/Trial\nNu har vi fått en fin KTM 350 EXCF 2023 \n\nEndast rullat 46 timmar via avläst ecu\n\nNya delar på hojen såsom \n\nPlasten och dynan \nAvgassystemet\nHjulen\nFjädringen \nHasplåten\nKedjestyraren\nNy koppling\nOlja + oljefilter\n\nFörmånlig finans löser vi\n\nHojen står på Ljunggrens motor i Karlskoga\n\nKTM350\n350exc\nktm\nenduro\ncross\nexc",
+    "category": [
+        {
+            "id": "1000",
+            "name": "Fordon"
+        },
+        {
+            "id": "1140",
+            "name": "Motorcyklar"
+        },
+        {
+            "id": "1141",
+            "name": "Cross/enduro"
+        }
+    ],
+    "images": [
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9079615568.jpg",
+            "width": 1024
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9075651905.jpg",
+            "width": 1024
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9086455052.jpg",
+            "width": 1024
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9071688242.jpg",
+            "width": 1024
+        },
+        {
+            "height": 1024,
+            "type": "image",
+            "url": "https://i.blocketcdn.se/pictures/9091014708.jpg",
+            "width": 1024
+        }
+    ],
+    "list_id": "107660647",
+    "list_time": "2023-02-02T16:18:02+01:00",
+    "location": [
+        {
+            "id": "8",
+            "name": "Örebro",
+            "query_key": "r"
+        },
+        {
+            "id": "97",
+            "name": "Örebro",
+            "query_key": "m"
+        }
+    ],
+    "map_url": "https://www.hitta.se/kartan/partner/blocketv2?ad_id=106711034",
+    "parameter_groups": [
+        {
+            "label": "Allmän information",
+            "parameters": [
+                {
+                    "id": "regdate",
+                    "label": "Modellår",
+                    "value": "2023"
+                }
+            ],
+            "type": "general"
+        }
+    ],
+    "partner_info": {
+        "external_id": "16744064",
+        "name": "bytbil"
+    },
+    "price": {
+        "suffix": "kr",
+        "value": 72900
+    },
+    "share_url": "https://www.blocket.se/annons/orebro/ktm_350_excf_2023/106711034",
+    "state_id": "2103944745",
+    "subject": "Ktm 350 excf 2023",
+    "type": "s"
+}
